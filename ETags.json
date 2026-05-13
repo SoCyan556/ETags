@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated_at": "2026-05-13T03:33:38.965394+00:00",
+  "updated_at": "2026-05-13T03:33:47.923888+00:00",
   "records": [
     {
       "userId": "usr_43bc9c80-eb75-4da0-8673-c56432255215",
@@ -23,8 +23,8 @@
           "color": "#FF006C",
           "priority": 100,
           "category": "custom",
-          "animated": false,
-          "animation": "",
+          "animated": true,
+          "animation": "pulse",
           "gradient": [
             "#FF006C",
             "#FFC200"
