@@ -2,9 +2,21 @@
   "records": [
     {
       "UserID": "usr_43bc9c80-eb75-4da0-8673-c56432255215",
-      "Tags": ["ELIXR Staff"],
-      "Color": "#A855F7",
-      "Active": true
+      "Active": true,
+      "Tags": [
+        {
+          "text": "ELIXR Staff",
+          "gradient": ["#A855F7", "#22D3EE"],
+          "priority": 100,
+          "category": "staff"
+        },
+        {
+          "text": "Trusted",
+          "color": "#A855F7",
+          "priority": 50,
+          "category": "trust"
+        }
+      ]
     }
   ]
 }
