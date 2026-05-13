@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated_at": "2026-05-13T02:55:37.010039+00:00",
+  "updated_at": "2026-05-13T02:55:49.970088+00:00",
   "records": [
     {
       "userId": "usr_43bc9c80-eb75-4da0-8673-c56432255215",
@@ -114,6 +114,20 @@
     {
       "userId": "usr_a6558236-3719-4085-9451-08272e87ca70",
       "displayName": "\u0421\u043ek\u0435\u0391dd\u0456\u0441t\u041a\u0456tt\u0443",
+      "active": true,
+      "tags": [
+        {
+          "text": "\u26a0\ufe0f Client User \u26a0\ufe0f",
+          "color": "#FF0000",
+          "priority": 100,
+          "category": "client_user",
+          "animated": false
+        }
+      ]
+    },
+    {
+      "userId": "usr_0a026bbd-0863-4488-b105-8b36b8266265",
+      "displayName": "ma\u0261e",
       "active": true,
       "tags": [
         {
