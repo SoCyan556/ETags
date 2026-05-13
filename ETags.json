@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated_at": "2026-05-13T02:54:57.952483+00:00",
+  "updated_at": "2026-05-13T02:55:18.318447+00:00",
   "records": [
     {
       "userId": "usr_43bc9c80-eb75-4da0-8673-c56432255215",
@@ -79,6 +79,20 @@
           "color": "#FF0000",
           "priority": 100,
           "category": "custom",
+          "animated": false
+        }
+      ]
+    },
+    {
+      "userId": "usr_cf4352f4-9437-4a24-9327-c6c614193cf7",
+      "displayName": "cryptical__",
+      "active": true,
+      "tags": [
+        {
+          "text": "\u26a0\ufe0f Client User \u26a0\ufe0f",
+          "color": "#FF0000",
+          "priority": 100,
+          "category": "client_user",
           "animated": false
         }
       ]
