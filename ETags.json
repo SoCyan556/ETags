@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated_at": "2026-05-13T02:48:28.617799+00:00",
+  "updated_at": "2026-05-13T02:52:52.050516+00:00",
   "records": [
     {
       "userId": "usr_43bc9c80-eb75-4da0-8673-c56432255215",
@@ -17,6 +17,20 @@
             "#00FDFF",
             "#F3FF00"
           ]
+        }
+      ]
+    },
+    {
+      "userId": "usr_be8a100a-c04e-4d99-bd55-d960f8902a9a",
+      "displayName": "Bootkitty",
+      "active": true,
+      "tags": [
+        {
+          "text": "\u26a0\ufe0f Client User \u26a0\ufe0f",
+          "color": "#FF0000",
+          "priority": 100,
+          "category": "custom",
+          "animated": false
         }
       ]
     }
