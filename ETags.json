@@ -2,40 +2,4 @@
   "version": 2,
   "updated_at": "2026-05-13T02:02:07.094099+00:00",
   "records": [
-    {
-      "UserID": "usr_43bc9c80-eb75-4da0-8673-c56432255215",
-      "Active": true,
-      "Tags": [
-        {
-          "text": "ELIXR Staff",
-          "gradient": [
-            "#A855F7",
-            "#22D3EE"
-          ],
-          "priority": 100,
-          "category": "staff"
-        },
-        {
-          "text": "Tweaker",
-          "color": "#A855F7",
-          "priority": 50,
-          "category": "trust"
-        }
-      ]
-    },
-    {
-      "userId": "usr_43bc9c80-eb75-4da0-8673-c56432255215",
-      "displayName": "c\u0443an",
-      "active": true,
-      "tags": [
-        {
-          "text": "testing",
-          "color": "#A855F7",
-          "priority": 0,
-          "category": "custom",
-          "animated": false
-        }
-      ]
-    }
-  ]
 }
