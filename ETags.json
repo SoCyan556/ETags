@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated_at": "2026-05-13T02:53:59.543952+00:00",
+  "updated_at": "2026-05-13T02:54:45.952409+00:00",
   "records": [
     {
       "userId": "usr_43bc9c80-eb75-4da0-8673-c56432255215",
@@ -49,6 +49,20 @@
         {
           "text": "\ud83c\udff7\ufe0f Avatar Ripper \ud83c\udff7\ufe0f",
           "color": "#FF6E00",
+          "priority": 100,
+          "category": "custom",
+          "animated": false
+        }
+      ]
+    },
+    {
+      "userId": "usr_d8f623c3-2123-4650-8f4a-e0589a0831d8",
+      "displayName": "MrJeff_",
+      "active": true,
+      "tags": [
+        {
+          "text": "\u26a0\ufe0f Client User \u26a0\ufe0f",
+          "color": "#FF0000",
           "priority": 100,
           "category": "custom",
           "animated": false
