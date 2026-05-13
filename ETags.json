@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated_at": "2026-05-13T02:57:28.027902+00:00",
+  "updated_at": "2026-05-13T03:15:32.265757+00:00",
   "records": [
     {
       "userId": "usr_43bc9c80-eb75-4da0-8673-c56432255215",
@@ -16,6 +16,17 @@
           "gradient": [
             "#00FDFF",
             "#F3FF00"
+          ]
+        },
+        {
+          "text": "Elixr Staff",
+          "color": "#FF009A",
+          "priority": 100,
+          "category": "client_user",
+          "animated": false,
+          "gradient": [
+            "#FF009A",
+            "#F5FF00"
           ]
         }
       ]
