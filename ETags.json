@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated_at": "2026-05-13T02:55:18.318447+00:00",
+  "updated_at": "2026-05-13T02:55:25.828639+00:00",
   "records": [
     {
       "userId": "usr_43bc9c80-eb75-4da0-8673-c56432255215",
@@ -96,6 +96,12 @@
           "animated": false
         }
       ]
+    },
+    {
+      "userId": "usr_89e55643-7f6a-4535-8628-a81a9b0c4295",
+      "displayName": "\u1e68\u0567\u00f8\u0433\u10dd\u05e5 \u023bl\u00f8\u057d\u056a\u0e23",
+      "active": true,
+      "tags": []
     }
   ]
 }
