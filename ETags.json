@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated_at": "2026-05-13T02:56:55.955732+00:00",
+  "updated_at": "2026-05-13T02:57:10.597920+00:00",
   "records": [
     {
       "userId": "usr_43bc9c80-eb75-4da0-8673-c56432255215",
@@ -204,7 +204,7 @@
           "text": "\ud83d\udd1e Age Baiter \ud83d\udd1e",
           "color": "#FA00FF",
           "priority": 100,
-          "category": "client_user",
+          "category": "suspicious",
           "animated": false
         }
       ]
