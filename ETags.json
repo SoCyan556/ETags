@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated_at": "2026-05-13T02:56:09.119077+00:00",
+  "updated_at": "2026-05-13T02:56:16.492452+00:00",
   "records": [
     {
       "userId": "usr_43bc9c80-eb75-4da0-8673-c56432255215",
@@ -156,6 +156,20 @@
     {
       "userId": "usr_93e4fdad-9cb2-49b4-a8bf-1bd4a48ebdb6",
       "displayName": "SalemMoonTTV",
+      "active": true,
+      "tags": [
+        {
+          "text": "\u26a0\ufe0f Client User \u26a0\ufe0f",
+          "color": "#FF0000",
+          "priority": 100,
+          "category": "client_user",
+          "animated": false
+        }
+      ]
+    },
+    {
+      "userId": "usr_275d8ccc-65db-4900-8056-672b2dadf4f5",
+      "displayName": "JJ~~",
       "active": true,
       "tags": [
         {
