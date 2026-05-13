@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated_at": "2026-05-13T03:33:47.923888+00:00",
+  "updated_at": "2026-05-13T03:46:18.471114+00:00",
   "records": [
     {
       "userId": "usr_43bc9c80-eb75-4da0-8673-c56432255215",
@@ -232,6 +232,25 @@
           "priority": 100,
           "category": "client_user",
           "animated": false
+        }
+      ]
+    },
+    {
+      "userId": "usr_fa9ef3ff-e37a-4fbe-86cb-8bde3d4553d6",
+      "displayName": "\u10e6 Saber \u10e6",
+      "active": true,
+      "tags": [
+        {
+          "text": "degen",
+          "color": "#7B19E3",
+          "priority": 100,
+          "category": "custom",
+          "animated": true,
+          "animation": "pulse",
+          "gradient": [
+            "#7B19E3",
+            "#1FBDDE"
+          ]
         }
       ]
     }
