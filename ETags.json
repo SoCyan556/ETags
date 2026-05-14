@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated_at": "2026-05-13T03:46:18.471114+00:00",
+  "updated_at": "2026-05-14T23:03:59.906710+00:00",
   "records": [
     {
       "userId": "usr_43bc9c80-eb75-4da0-8673-c56432255215",
@@ -250,6 +250,25 @@
           "gradient": [
             "#7B19E3",
             "#1FBDDE"
+          ]
+        }
+      ]
+    },
+    {
+      "userId": "usr_1a1d07f2-8aa1-4a8e-9ce8-bff2c246c1fc",
+      "displayName": "iDevice62",
+      "active": true,
+      "tags": [
+        {
+          "text": "Astolfo",
+          "color": "#9F00FF",
+          "priority": 100,
+          "category": "custom",
+          "animated": false,
+          "animation": "",
+          "gradient": [
+            "#9F00FF",
+            "#FF00D3"
           ]
         }
       ]
