@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated_at": "2026-05-14T23:03:59.906710+00:00",
+  "updated_at": "2026-05-15T00:22:13.658345+00:00",
   "records": [
     {
       "userId": "usr_43bc9c80-eb75-4da0-8673-c56432255215",
@@ -269,6 +269,25 @@
           "gradient": [
             "#9F00FF",
             "#FF00D3"
+          ]
+        }
+      ]
+    },
+    {
+      "userId": "usr_a7f05d68-005e-4fbc-924d-fb15dd21d099",
+      "displayName": "\u06f0\u035c\u035c\u035c\u06f0",
+      "active": true,
+      "tags": [
+        {
+          "text": "Doordash Driver",
+          "color": "#FF0000",
+          "priority": 100,
+          "category": "custom",
+          "animated": false,
+          "animation": "",
+          "gradient": [
+            "#FF0000",
+            "#D76300"
           ]
         }
       ]
