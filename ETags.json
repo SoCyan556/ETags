@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated_at": "2026-05-15T00:22:27.748403+00:00",
+  "updated_at": "2026-05-15T00:23:30.005704+00:00",
   "records": [
     {
       "userId": "usr_43bc9c80-eb75-4da0-8673-c56432255215",
@@ -297,6 +297,25 @@
           "category": "custom",
           "animated": false,
           "animation": ""
+        }
+      ]
+    },
+    {
+      "userId": "usr_999474d8-e003-40e6-b6c0-f86bd9beb7b0",
+      "displayName": "\u039d\u0456g\u0261\u0430",
+      "active": true,
+      "tags": [
+        {
+          "text": "Uber Eats Driver",
+          "color": "#00FF0A",
+          "priority": 100,
+          "category": "custom",
+          "animated": false,
+          "animation": "",
+          "gradient": [
+            "#00FF0A",
+            "#00FF6E"
+          ]
         }
       ]
     }
