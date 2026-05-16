@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated_at": "2026-05-15T00:28:31.708594+00:00",
+  "updated_at": "2026-05-16T22:14:42.895640+00:00",
   "records": [
     {
       "userId": "usr_43bc9c80-eb75-4da0-8673-c56432255215",
@@ -327,6 +327,25 @@
           "gradient": [
             "#FF00A9",
             "#FF5B00"
+          ]
+        }
+      ]
+    },
+    {
+      "userId": "usr_e8c9ef19-7977-4cbd-af5a-52615d04e7ee",
+      "displayName": "D\u0250rkspirit",
+      "active": true,
+      "tags": [
+        {
+          "text": "Spiritual",
+          "color": "#000000",
+          "priority": 100,
+          "category": "custom",
+          "animated": false,
+          "animation": "",
+          "gradient": [
+            "#000000",
+            "#565656"
           ]
         }
       ]
