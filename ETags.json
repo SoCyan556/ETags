@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated_at": "2026-05-17T20:06:07.387167+00:00",
+  "updated_at": "2026-05-17T20:07:01.786809+00:00",
   "records": [
     {
       "userId": "usr_43bc9c80-eb75-4da0-8673-c56432255215",
@@ -392,6 +392,14 @@
         {
           "text": "\ud83d\uded1 Suspicious \ud83d\uded1",
           "color": "#FF0000",
+          "priority": 100,
+          "category": "custom",
+          "animated": false,
+          "animation": ""
+        },
+        {
+          "text": "\ud83e\udd16 Client User \ud83e\udd16",
+          "color": "#009FFF",
           "priority": 100,
           "category": "custom",
           "animated": false,
