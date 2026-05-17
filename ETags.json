@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated_at": "2026-05-16T22:14:42.895640+00:00",
+  "updated_at": "2026-05-17T02:14:59.655428+00:00",
   "records": [
     {
       "userId": "usr_43bc9c80-eb75-4da0-8673-c56432255215",
@@ -346,6 +346,25 @@
           "gradient": [
             "#000000",
             "#565656"
+          ]
+        }
+      ]
+    },
+    {
+      "userId": "usr_02405f07-26fa-4b47-8226-f7e728bb6a1f",
+      "displayName": "~Hellcat~",
+      "active": true,
+      "tags": [
+        {
+          "text": "Gay Twink",
+          "color": "#FB03EC",
+          "priority": 100,
+          "category": "custom",
+          "animated": false,
+          "animation": "",
+          "gradient": [
+            "#FB03EC",
+            "#FB0381"
           ]
         }
       ]
