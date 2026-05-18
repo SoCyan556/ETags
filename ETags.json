@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated_at": "2026-05-18T19:06:51.640532+00:00",
+  "updated_at": "2026-05-18T19:07:06.809666+00:00",
   "records": [
     {
       "userId": "usr_43bc9c80-eb75-4da0-8673-c56432255215",
@@ -415,6 +415,14 @@
         {
           "text": "\ud83e\udd16 Client User \ud83e\udd16",
           "color": "#2B2FFB",
+          "priority": 100,
+          "category": "suspicious",
+          "animated": false,
+          "animation": ""
+        },
+        {
+          "text": "\ud83d\uded1 Suspicious \ud83d\uded1",
+          "color": "#FB2B2B",
           "priority": 100,
           "category": "suspicious",
           "animated": false,
