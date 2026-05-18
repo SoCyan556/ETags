@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated_at": "2026-05-17T20:07:01.786809+00:00",
+  "updated_at": "2026-05-18T19:06:51.640532+00:00",
   "records": [
     {
       "userId": "usr_43bc9c80-eb75-4da0-8673-c56432255215",
@@ -402,6 +402,21 @@
           "color": "#009FFF",
           "priority": 100,
           "category": "custom",
+          "animated": false,
+          "animation": ""
+        }
+      ]
+    },
+    {
+      "userId": "usr_0e962b91-ae17-4314-be02-f39757b3dfd7",
+      "displayName": "OniKiss",
+      "active": true,
+      "tags": [
+        {
+          "text": "\ud83e\udd16 Client User \ud83e\udd16",
+          "color": "#2B2FFB",
+          "priority": 100,
+          "category": "suspicious",
           "animated": false,
           "animation": ""
         }
