@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated_at": "2026-05-21T04:42:41.789807+00:00",
+  "updated_at": "2026-05-21T23:26:54.899334+00:00",
   "records": [
     {
       "userId": "usr_43bc9c80-eb75-4da0-8673-c56432255215",
@@ -8,26 +8,15 @@
       "active": true,
       "tags": [
         {
-          "text": "Legendary",
-          "color": "#00FDFF",
+          "text": "Freak",
+          "color": "#FF008C",
           "priority": 100,
           "category": "custom",
-          "animated": false,
-          "gradient": [
-            "#00FDFF",
-            "#F3FF00"
-          ]
-        },
-        {
-          "text": "Elixr Staff",
-          "color": "#FF006C",
-          "priority": 100,
-          "category": "custom",
+          "animation": "rain",
           "animated": true,
-          "animation": "pulse",
           "gradient": [
-            "#FF006C",
-            "#FFC200"
+            "#FF008C",
+            "#FF4E00"
           ]
         }
       ]
