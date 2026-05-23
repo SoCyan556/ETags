@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated_at": "2026-05-23T03:09:16.116894+00:00",
+  "updated_at": "2026-05-23T03:10:13.068861+00:00",
   "records": [
     {
       "userId": "usr_43bc9c80-eb75-4da0-8673-c56432255215",
@@ -24,8 +24,8 @@
           "color": "#2B83FB",
           "priority": 100,
           "category": "custom",
-          "animation": "",
-          "animated": false
+          "animation": "glitch-lite",
+          "animated": true
         }
       ]
     },
