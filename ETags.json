@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated_at": "2026-05-23T03:10:13.068861+00:00",
+  "updated_at": "2026-05-24T20:29:22.836394+00:00",
   "records": [
     {
       "userId": "usr_43bc9c80-eb75-4da0-8673-c56432255215",
@@ -469,6 +469,21 @@
           "category": "suspicious",
           "animated": false,
           "animation": ""
+        }
+      ]
+    },
+    {
+      "userId": "usr_cda730db-3424-4e3b-8808-7200e577c6b0",
+      "displayName": "Repuls\u0456v\u0435",
+      "active": true,
+      "tags": [
+        {
+          "text": "Client User",
+          "color": "#4A8DFF",
+          "priority": 100,
+          "category": "modder",
+          "animation": "",
+          "animated": false
         }
       ]
     }
