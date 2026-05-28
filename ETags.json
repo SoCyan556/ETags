@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated_at": "2026-05-25T14:22:06.856949+00:00",
+  "updated_at": "2026-05-28T00:13:02.711561+00:00",
   "records": [
     {
       "userId": "usr_43bc9c80-eb75-4da0-8673-c56432255215",
@@ -18,22 +18,6 @@
             "#FF00F0",
             "#0089FF"
           ]
-        },
-        {
-          "text": "Test",
-          "color": "#A855F7",
-          "priority": 100,
-          "category": "custom",
-          "animation": "glitch-lite",
-          "animated": true
-        },
-        {
-          "text": "Shake",
-          "color": "#A855F7",
-          "priority": 100,
-          "category": "custom",
-          "animation": "shake-lite",
-          "animated": true
         }
       ]
     },
