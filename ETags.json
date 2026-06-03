@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated_at": "2026-06-03T00:30:24.755519+00:00",
+  "updated_at": "2026-06-03T00:41:55.884102+00:00",
   "records": [
     {
       "userId": "usr_43bc9c80-eb75-4da0-8673-c56432255215",
@@ -17,7 +17,8 @@
           "gradient": [
             "#FF00F0",
             "#0089FF"
-          ]
+          ],
+          "rainbow": false
         },
         {
           "text": "\ud83c\udf08 GAY \ud83c\udf08",
@@ -29,19 +30,17 @@
           "gradient": [
             "#2BFBD3",
             "#FF0007"
-          ]
+          ],
+          "rainbow": false
         },
         {
-          "text": "\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f TRANNY \ud83c\udff3\ufe0f\u200d\u26a7\ufe0f",
-          "color": "#FFFFFF",
+          "text": ".RAINBOW.\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f TRANNY \ud83c\udff3\ufe0f\u200d\u26a7\ufe0f",
+          "color": "#A855F7",
           "priority": 100,
-          "category": "Custom",
-          "animation": "",
-          "animated": false,
-          "gradient": [
-            "#FFFFFF",
-            "#FF74F3"
-          ]
+          "category": "custom",
+          "animation": "rain",
+          "rainbow": true,
+          "animated": true
         }
       ]
     },
