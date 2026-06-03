@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated_at": "2026-06-03T00:10:06.234462+00:00",
+  "updated_at": "2026-06-03T00:30:24.755519+00:00",
   "records": [
     {
       "userId": "usr_43bc9c80-eb75-4da0-8673-c56432255215",
@@ -20,44 +20,28 @@
           ]
         },
         {
-          "text": "\ud83d\uded1 Suspicious \ud83d\uded1",
-          "color": "#FF3B3B",
+          "text": "\ud83c\udf08 GAY \ud83c\udf08",
+          "color": "#2BFBD3",
           "priority": 100,
-          "category": "suspicious",
+          "category": "Custom",
           "animation": "",
-          "animated": false
+          "animated": false,
+          "gradient": [
+            "#2BFBD3",
+            "#FF0007"
+          ]
         },
         {
-          "text": "Client User",
-          "color": "#4A8DFF",
+          "text": "\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f TRANNY \ud83c\udff3\ufe0f\u200d\u26a7\ufe0f",
+          "color": "#FFFFFF",
           "priority": 100,
-          "category": "modder",
+          "category": "Custom",
           "animation": "",
-          "animated": false
-        },
-        {
-          "text": "\ud83d\udcc2 Ripper \ud83d\udcc2",
-          "color": "#C8A27A",
-          "priority": 100,
-          "category": "modder",
-          "animation": "",
-          "animated": false
-        },
-        {
-          "text": "\ud83d\udcc2 Ripper \ud83d\udcc2",
-          "color": "#C8A27A",
-          "priority": 100,
-          "category": "modder",
-          "animation": "",
-          "animated": false
-        },
-        {
-          "text": "\ud83d\udcc2 Ripper \ud83d\udcc2",
-          "color": "#C8A27A",
-          "priority": 100,
-          "category": "modder",
-          "animation": "",
-          "animated": false
+          "animated": false,
+          "gradient": [
+            "#FFFFFF",
+            "#FF74F3"
+          ]
         }
       ]
     },
