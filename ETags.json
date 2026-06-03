@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated_at": "2026-06-03T00:56:40.988672+00:00",
+  "updated_at": "2026-06-03T01:06:43.458753+00:00",
   "records": [
     {
       "userId": "usr_43bc9c80-eb75-4da0-8673-c56432255215",
@@ -498,6 +498,22 @@
           "priority": 100,
           "category": "modder",
           "animation": "",
+          "animated": false
+        }
+      ]
+    },
+    {
+      "userId": "usr_cab3249e-d8cd-4089-8cf1-cad0738534d8",
+      "displayName": "kawai\u0456",
+      "active": true,
+      "tags": [
+        {
+          "text": "\ud83d\uded1 Suspicious \ud83d\uded1",
+          "color": "#FF3B3B",
+          "priority": 100,
+          "category": "suspicious",
+          "animation": "",
+          "rainbow": false,
           "animated": false
         }
       ]
