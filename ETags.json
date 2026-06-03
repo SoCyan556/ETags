@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated_at": "2026-05-28T00:13:02.711561+00:00",
+  "updated_at": "2026-06-03T00:10:06.234462+00:00",
   "records": [
     {
       "userId": "usr_43bc9c80-eb75-4da0-8673-c56432255215",
@@ -18,6 +18,46 @@
             "#FF00F0",
             "#0089FF"
           ]
+        },
+        {
+          "text": "\ud83d\uded1 Suspicious \ud83d\uded1",
+          "color": "#FF3B3B",
+          "priority": 100,
+          "category": "suspicious",
+          "animation": "",
+          "animated": false
+        },
+        {
+          "text": "Client User",
+          "color": "#4A8DFF",
+          "priority": 100,
+          "category": "modder",
+          "animation": "",
+          "animated": false
+        },
+        {
+          "text": "\ud83d\udcc2 Ripper \ud83d\udcc2",
+          "color": "#C8A27A",
+          "priority": 100,
+          "category": "modder",
+          "animation": "",
+          "animated": false
+        },
+        {
+          "text": "\ud83d\udcc2 Ripper \ud83d\udcc2",
+          "color": "#C8A27A",
+          "priority": 100,
+          "category": "modder",
+          "animation": "",
+          "animated": false
+        },
+        {
+          "text": "\ud83d\udcc2 Ripper \ud83d\udcc2",
+          "color": "#C8A27A",
+          "priority": 100,
+          "category": "modder",
+          "animation": "",
+          "animated": false
         }
       ]
     },
