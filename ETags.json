@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated_at": "2026-06-04T23:17:21.058698+00:00",
+  "updated_at": "2026-06-07T20:28:18.472921+00:00",
   "records": [
     {
       "userId": "usr_43bc9c80-eb75-4da0-8673-c56432255215",
@@ -579,6 +579,22 @@
           "animation": "rain",
           "rainbow": true,
           "animated": true
+        }
+      ]
+    },
+    {
+      "userId": "usr_d58af4c5-7b0c-4bd3-8a2c-bcf1e5de33ae",
+      "displayName": "Do\u0578't",
+      "active": true,
+      "tags": [
+        {
+          "text": "\ud83d\udcc2 Ripper \ud83d\udcc2",
+          "color": "#C8A27A",
+          "priority": 100,
+          "category": "modder",
+          "animation": "",
+          "rainbow": false,
+          "animated": false
         }
       ]
     }
