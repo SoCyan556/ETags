@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated_at": "2026-06-09T19:12:26.321217+00:00",
+  "updated_at": "2026-06-09T19:12:38.055676+00:00",
   "records": [
     {
       "userId": "usr_43bc9c80-eb75-4da0-8673-c56432255215",
@@ -601,6 +601,22 @@
     {
       "userId": "usr_283a5ab0-f78e-42a2-bd1f-4519d3307621",
       "displayName": "oreokillers",
+      "active": true,
+      "tags": [
+        {
+          "text": "Pub ERP",
+          "color": "#A855F7",
+          "priority": 100,
+          "category": "custom",
+          "animation": "",
+          "rainbow": false,
+          "animated": false
+        }
+      ]
+    },
+    {
+      "userId": "usr_e8c337a4-e7c1-4669-9294-8d7ea362139b",
+      "displayName": "CubanMafia",
       "active": true,
       "tags": [
         {
