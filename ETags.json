@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated_at": "2026-06-09T19:12:38.055676+00:00",
+  "updated_at": "2026-06-09T19:12:51.620594+00:00",
   "records": [
     {
       "userId": "usr_43bc9c80-eb75-4da0-8673-c56432255215",
@@ -624,6 +624,31 @@
           "color": "#A855F7",
           "priority": 100,
           "category": "custom",
+          "animation": "",
+          "rainbow": false,
+          "animated": false
+        }
+      ]
+    },
+    {
+      "userId": "usr_d6fbe68c-8c67-47a8-884e-7a99969d6fa7",
+      "displayName": "\u1d0d\u1d07\u1d05\u026a\u1d04\u1d00\u1d1b\u1d07",
+      "active": true,
+      "tags": [
+        {
+          "text": "Client User",
+          "color": "#4A8DFF",
+          "priority": 100,
+          "category": "modder",
+          "animation": "",
+          "rainbow": false,
+          "animated": false
+        },
+        {
+          "text": "\ud83d\udcc2 Ripper \ud83d\udcc2",
+          "color": "#C8A27A",
+          "priority": 100,
+          "category": "modder",
           "animation": "",
           "rainbow": false,
           "animated": false
