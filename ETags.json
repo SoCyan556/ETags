@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated_at": "2026-06-09T21:17:59.401291+00:00",
+  "updated_at": "2026-06-09T21:18:51.737084+00:00",
   "records": [
     {
       "userId": "usr_43bc9c80-eb75-4da0-8673-c56432255215",
@@ -709,12 +709,12 @@
       "active": true,
       "tags": [
         {
-          "text": "\ud83c\udf78",
+          "text": ".RAINBOW.\ud83c\udf78",
           "color": "#A855F7",
           "priority": 100,
           "category": "custom",
           "animation": "blink",
-          "rainbow": false,
+          "rainbow": true,
           "animated": true
         }
       ]
