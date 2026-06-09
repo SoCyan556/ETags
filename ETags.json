@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated_at": "2026-06-09T19:13:11.146661+00:00",
+  "updated_at": "2026-06-09T19:21:04.861702+00:00",
   "records": [
     {
       "userId": "usr_43bc9c80-eb75-4da0-8673-c56432255215",
@@ -674,6 +674,22 @@
     {
       "userId": "usr_6ff5e18f-c277-445b-b44b-2ffae8a68cc3",
       "displayName": "Sifu_Chu",
+      "active": true,
+      "tags": [
+        {
+          "text": "\ud83d\uded1 Suspicious \ud83d\uded1",
+          "color": "#FF3B3B",
+          "priority": 100,
+          "category": "suspicious",
+          "animation": "",
+          "rainbow": false,
+          "animated": false
+        }
+      ]
+    },
+    {
+      "userId": "usr_330f3d20-2f5f-4bcd-9c10-48eee23b4f3e",
+      "displayName": "S\u0338p\u0336e\u0334c\u0338t\u0336r\u0335e\u0334",
       "active": true,
       "tags": [
         {
