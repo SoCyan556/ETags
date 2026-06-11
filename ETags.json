@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "updated_at": "2026-06-09T22:58:33.691843+00:00",
+  "updated_at": "2026-06-11T00:48:09.989Z",
   "records": [
     {
       "userId": "usr_43bc9c80-eb75-4da0-8673-c56432255215",
-      "displayName": "c\u0443an",
+      "displayName": "cуan",
       "active": true,
       "tags": [
         {
@@ -13,28 +13,15 @@
           "priority": 100,
           "category": "custom",
           "animation": "blink",
+          "rainbow": false,
           "animated": true,
           "gradient": [
             "#FF00F0",
             "#0089FF"
-          ],
-          "rainbow": false
+          ]
         },
         {
-          "text": "\ud83c\udf08 GAY \ud83c\udf08",
-          "color": "#2BFBD3",
-          "priority": 100,
-          "category": "Custom",
-          "animation": "",
-          "animated": false,
-          "gradient": [
-            "#2BFBD3",
-            "#FF0007"
-          ],
-          "rainbow": false
-        },
-        {
-          "text": ".RAINBOW.\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f TRANNY \ud83c\udff3\ufe0f\u200d\u26a7\ufe0f",
+          "text": ".RAINBOW.🏳️‍⚧️ TRANNY 🏳️‍⚧️",
           "color": "#A855F7",
           "priority": 100,
           "category": "custom",
@@ -50,7 +37,7 @@
       "active": true,
       "tags": [
         {
-          "text": "\u26a0\ufe0f Client User \u26a0\ufe0f",
+          "text": "⚠️ Client User ⚠️",
           "color": "#FF0000",
           "priority": 100,
           "category": "custom",
@@ -60,18 +47,18 @@
     },
     {
       "userId": "usr_e272e4dc-48c9-4b5d-be4f-d71b37b947f2",
-      "displayName": "y\u1d1ccky",
+      "displayName": "yᴜcky",
       "active": true,
       "tags": [
         {
-          "text": "\u26a0\ufe0f Client User \u26a0\ufe0f",
+          "text": "⚠️ Client User ⚠️",
           "color": "#FF0000",
           "priority": 100,
           "category": "custom",
           "animated": false
         },
         {
-          "text": "\ud83c\udff7\ufe0f Avatar Ripper \ud83c\udff7\ufe0f",
+          "text": "🏷️ Avatar Ripper 🏷️",
           "color": "#FF6E00",
           "priority": 100,
           "category": "custom",
@@ -85,7 +72,7 @@
       "active": true,
       "tags": [
         {
-          "text": "\u26a0\ufe0f Client User \u26a0\ufe0f",
+          "text": "⚠️ Client User ⚠️",
           "color": "#FF0000",
           "priority": 100,
           "category": "custom",
@@ -95,11 +82,11 @@
     },
     {
       "userId": "usr_330d1b14-d214-4bf1-9194-2c01cb40bc5d",
-      "displayName": "\u0435pitaph",
+      "displayName": "еpitaph",
       "active": true,
       "tags": [
         {
-          "text": "\u26a0\ufe0f Client User \u26a0\ufe0f",
+          "text": "⚠️ Client User ⚠️",
           "color": "#FF0000",
           "priority": 100,
           "category": "custom",
@@ -113,7 +100,7 @@
       "active": true,
       "tags": [
         {
-          "text": "\u26a0\ufe0f Client User \u26a0\ufe0f",
+          "text": "⚠️ Client User ⚠️",
           "color": "#FF0000",
           "priority": 100,
           "category": "client_user",
@@ -123,11 +110,11 @@
     },
     {
       "userId": "usr_89e55643-7f6a-4535-8628-a81a9b0c4295",
-      "displayName": "\u1e68\u0567\u00f8\u0433\u10dd\u05e5 \u023bl\u00f8\u057d\u056a\u0e23",
+      "displayName": "Ṩէøгოץ Ȼløսժร",
       "active": true,
       "tags": [
         {
-          "text": "\u26a0\ufe0f Client User \u26a0\ufe0f",
+          "text": "⚠️ Client User ⚠️",
           "color": "#FF0000",
           "priority": 100,
           "category": "client_user",
@@ -137,11 +124,11 @@
     },
     {
       "userId": "usr_a6558236-3719-4085-9451-08272e87ca70",
-      "displayName": "\u0421\u043ek\u0435\u0391dd\u0456\u0441t\u041a\u0456tt\u0443",
+      "displayName": "СоkеΑddісtКіttу",
       "active": true,
       "tags": [
         {
-          "text": "\u26a0\ufe0f Client User \u26a0\ufe0f",
+          "text": "⚠️ Client User ⚠️",
           "color": "#FF0000",
           "priority": 100,
           "category": "client_user",
@@ -151,11 +138,11 @@
     },
     {
       "userId": "usr_0a026bbd-0863-4488-b105-8b36b8266265",
-      "displayName": "ma\u0261e",
+      "displayName": "maɡe",
       "active": true,
       "tags": [
         {
-          "text": "\u26a0\ufe0f Client User \u26a0\ufe0f",
+          "text": "⚠️ Client User ⚠️",
           "color": "#FF0000",
           "priority": 100,
           "category": "client_user",
@@ -169,7 +156,7 @@
       "active": true,
       "tags": [
         {
-          "text": "\u26a0\ufe0f Client User \u26a0\ufe0f",
+          "text": "⚠️ Client User ⚠️",
           "color": "#FF0000",
           "priority": 100,
           "category": "client_user",
@@ -183,7 +170,7 @@
       "active": true,
       "tags": [
         {
-          "text": "\u26a0\ufe0f Client User \u26a0\ufe0f",
+          "text": "⚠️ Client User ⚠️",
           "color": "#FF0000",
           "priority": 100,
           "category": "client_user",
@@ -197,7 +184,7 @@
       "active": true,
       "tags": [
         {
-          "text": "\u26a0\ufe0f Client User \u26a0\ufe0f",
+          "text": "⚠️ Client User ⚠️",
           "color": "#FF0000",
           "priority": 100,
           "category": "client_user",
@@ -211,7 +198,7 @@
       "active": true,
       "tags": [
         {
-          "text": "\u26a0\ufe0f Client User \u26a0\ufe0f",
+          "text": "⚠️ Client User ⚠️",
           "color": "#FF0000",
           "priority": 100,
           "category": "client_user",
@@ -221,11 +208,11 @@
     },
     {
       "userId": "usr_5e877a4a-dbcb-4021-8db0-c7b258a653cc",
-      "displayName": "\u0421\u043ez\u0443",
+      "displayName": "Соzу",
       "active": true,
       "tags": [
         {
-          "text": "\ud83d\udd1e Age Baiter \ud83d\udd1e",
+          "text": "🔞 Age Baiter 🔞",
           "color": "#FA00FF",
           "priority": 100,
           "category": "suspicious",
@@ -235,11 +222,11 @@
     },
     {
       "userId": "usr_21e61d39-e846-4409-a243-499f958ba342",
-      "displayName": "\u029f\u1d0f\u1d21\u029f\u028f",
+      "displayName": "ʟᴏᴡʟʏ",
       "active": true,
       "tags": [
         {
-          "text": "\u26a0\ufe0f Client User \u26a0\ufe0f",
+          "text": "⚠️ Client User ⚠️",
           "color": "#FF0000",
           "priority": 100,
           "category": "client_user",
@@ -249,7 +236,7 @@
     },
     {
       "userId": "usr_fa9ef3ff-e37a-4fbe-86cb-8bde3d4553d6",
-      "displayName": "\u10e6 Saber \u10e6",
+      "displayName": "ღ Saber ღ",
       "active": true,
       "tags": [
         {
@@ -287,7 +274,7 @@
     },
     {
       "userId": "usr_a7f05d68-005e-4fbc-924d-fb15dd21d099",
-      "displayName": "\u06f0\u035c\u035c\u035c\u06f0",
+      "displayName": "۰͜͜͜۰",
       "active": true,
       "tags": [
         {
@@ -314,7 +301,7 @@
     },
     {
       "userId": "usr_999474d8-e003-40e6-b6c0-f86bd9beb7b0",
-      "displayName": "\u039d\u0456g\u0261\u0430",
+      "displayName": "Νіgɡа",
       "active": true,
       "tags": [
         {
@@ -345,7 +332,7 @@
     },
     {
       "userId": "usr_e8c9ef19-7977-4cbd-af5a-52615d04e7ee",
-      "displayName": "D\u0250rkspirit",
+      "displayName": "Dɐrkspirit",
       "active": true,
       "tags": [
         {
@@ -387,7 +374,7 @@
       "active": true,
       "tags": [
         {
-          "text": "\ud83d\uded1 Suspicious \ud83d\uded1",
+          "text": "🛑 Suspicious 🛑",
           "color": "#FF0000",
           "priority": 100,
           "category": "custom",
@@ -398,11 +385,11 @@
     },
     {
       "userId": "usr_264bc90d-33bf-41b3-bc96-97b64137a769",
-      "displayName": "\uff2c\uff35",
+      "displayName": "ＬＵ",
       "active": true,
       "tags": [
         {
-          "text": "\ud83d\uded1 Suspicious \ud83d\uded1",
+          "text": "🛑 Suspicious 🛑",
           "color": "#FF0000",
           "priority": 100,
           "category": "custom",
@@ -410,7 +397,7 @@
           "animation": ""
         },
         {
-          "text": "\ud83e\udd16 Client User \ud83e\udd16",
+          "text": "🤖 Client User 🤖",
           "color": "#009FFF",
           "priority": 100,
           "category": "custom",
@@ -425,7 +412,7 @@
       "active": true,
       "tags": [
         {
-          "text": "\ud83e\udd16 Client User \ud83e\udd16",
+          "text": "🤖 Client User 🤖",
           "color": "#2B2FFB",
           "priority": 100,
           "category": "suspicious",
@@ -433,7 +420,7 @@
           "animation": ""
         },
         {
-          "text": "\ud83d\uded1 Suspicious \ud83d\uded1",
+          "text": "🛑 Suspicious 🛑",
           "color": "#FB2B2B",
           "priority": 100,
           "category": "suspicious",
@@ -448,7 +435,7 @@
       "active": true,
       "tags": [
         {
-          "text": "\u26d3\ufe0f\u200d\ud83d\udca5 Suspicious \u26d3\ufe0f\u200d\ud83d\udca5",
+          "text": "⛓️‍💥 Suspicious ⛓️‍💥",
           "color": "#A855F7",
           "priority": 100,
           "category": "suspicious",
@@ -463,7 +450,7 @@
       "active": true,
       "tags": [
         {
-          "text": "\u26d3\ufe0f\u200d\ud83d\udca5 Suspicious \u26d3\ufe0f\u200d\ud83d\udca5",
+          "text": "⛓️‍💥 Suspicious ⛓️‍💥",
           "color": "#A855F7",
           "priority": 100,
           "category": "suspicious",
@@ -474,11 +461,11 @@
     },
     {
       "userId": "usr_02cd1010-616d-4588-87c0-8935c64766c1",
-      "displayName": "\u0f12\uff27\uff48\uff4f\uff53\uff54\u0f12",
+      "displayName": "༒Ｇｈｏｓｔ༒",
       "active": true,
       "tags": [
         {
-          "text": "\u26d3\ufe0f\u200d\ud83d\udca5 Suspicious \u26d3\ufe0f\u200d\ud83d\udca5",
+          "text": "⛓️‍💥 Suspicious ⛓️‍💥",
           "color": "#A855F7",
           "priority": 100,
           "category": "suspicious",
@@ -489,7 +476,7 @@
     },
     {
       "userId": "usr_cda730db-3424-4e3b-8808-7200e577c6b0",
-      "displayName": "Repuls\u0456v\u0435",
+      "displayName": "Repulsіvе",
       "active": true,
       "tags": [
         {
@@ -504,11 +491,11 @@
     },
     {
       "userId": "usr_cab3249e-d8cd-4089-8cf1-cad0738534d8",
-      "displayName": "kawai\u0456",
+      "displayName": "kawaiі",
       "active": true,
       "tags": [
         {
-          "text": "\ud83d\uded1 Suspicious \ud83d\uded1",
+          "text": "🛑 Suspicious 🛑",
           "color": "#FF3B3B",
           "priority": 100,
           "category": "suspicious",
@@ -520,11 +507,11 @@
     },
     {
       "userId": "usr_5b065ee6-4526-4559-8858-ffc81ae84914",
-      "displayName": "\u0445\u043e\u0440\u043e\u0448\u0430\u044f \u0434\u0435\u0432\u043e\u0447\u043a\u0430",
+      "displayName": "хорошая девочка",
       "active": true,
       "tags": [
         {
-          "text": "\ud83d\uded1 Suspicious \ud83d\uded1",
+          "text": "🛑 Suspicious 🛑",
           "color": "#FF3B3B",
           "priority": 100,
           "category": "suspicious",
@@ -536,11 +523,11 @@
     },
     {
       "userId": "usr_5102a485-b0a5-4ac5-ada0-04ce0be1eeaa",
-      "displayName": "\u0358F\u0435\u0435t",
+      "displayName": "͘Fееt",
       "active": true,
       "tags": [
         {
-          "text": "\ud83d\uded1 Suspicious \ud83d\uded1",
+          "text": "🛑 Suspicious 🛑",
           "color": "#FF3B3B",
           "priority": 100,
           "category": "suspicious",
@@ -556,7 +543,7 @@
       "active": true,
       "tags": [
         {
-          "text": "\ud83d\uded1 Suspicious \ud83d\uded1",
+          "text": "🛑 Suspicious 🛑",
           "color": "#FF3B3B",
           "priority": 100,
           "category": "suspicious",
@@ -568,11 +555,11 @@
     },
     {
       "userId": "usr_4c9fe97c-bbf9-4936-b396-8caac13f6fc7",
-      "displayName": "\ufbb4\ufbb4tracy",
+      "displayName": "﮴﮴tracy",
       "active": true,
       "tags": [
         {
-          "text": ".RAINBOW.\ud83c\udf08 BUM \ud83c\udf08",
+          "text": ".RAINBOW.🌈 BUM 🌈",
           "color": "#A855F7",
           "priority": 100,
           "category": "custom",
@@ -584,11 +571,11 @@
     },
     {
       "userId": "usr_d58af4c5-7b0c-4bd3-8a2c-bcf1e5de33ae",
-      "displayName": "Do\u0578't",
+      "displayName": "Doո't",
       "active": true,
       "tags": [
         {
-          "text": "\ud83d\udcc2 Ripper \ud83d\udcc2",
+          "text": "📂 Ripper 📂",
           "color": "#C8A27A",
           "priority": 100,
           "category": "modder",
@@ -632,7 +619,7 @@
     },
     {
       "userId": "usr_d6fbe68c-8c67-47a8-884e-7a99969d6fa7",
-      "displayName": "\u1d0d\u1d07\u1d05\u026a\u1d04\u1d00\u1d1b\u1d07",
+      "displayName": "ᴍᴇᴅɪᴄᴀᴛᴇ",
       "active": true,
       "tags": [
         {
@@ -645,7 +632,7 @@
           "animated": false
         },
         {
-          "text": "\ud83d\udcc2 Ripper \ud83d\udcc2",
+          "text": "📂 Ripper 📂",
           "color": "#C8A27A",
           "priority": 100,
           "category": "modder",
@@ -661,7 +648,7 @@
       "active": true,
       "tags": [
         {
-          "text": "\ud83d\uded1 Suspicious \ud83d\uded1",
+          "text": "🛑 Suspicious 🛑",
           "color": "#FF3B3B",
           "priority": 100,
           "category": "suspicious",
@@ -677,7 +664,7 @@
       "active": true,
       "tags": [
         {
-          "text": "\ud83d\uded1 Suspicious \ud83d\uded1",
+          "text": "🛑 Suspicious 🛑",
           "color": "#FF3B3B",
           "priority": 100,
           "category": "suspicious",
@@ -689,11 +676,11 @@
     },
     {
       "userId": "usr_330f3d20-2f5f-4bcd-9c10-48eee23b4f3e",
-      "displayName": "S\u0338p\u0336e\u0334c\u0338t\u0336r\u0335e\u0334",
+      "displayName": "S̸p̶e̴c̸t̶r̵e̴",
       "active": true,
       "tags": [
         {
-          "text": "\ud83d\uded1 Suspicious \ud83d\uded1",
+          "text": "🛑 Suspicious 🛑",
           "color": "#FF3B3B",
           "priority": 100,
           "category": "suspicious",
@@ -709,7 +696,7 @@
       "active": true,
       "tags": [
         {
-          "text": ".RAINBOW.\ud83c\udf78",
+          "text": ".RAINBOW.🍸",
           "color": "#A855F7",
           "priority": 100,
           "category": "custom",
