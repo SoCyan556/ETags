@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated_at": "2026-06-21T02:52:46.245Z",
+  "updated_at": "2026-06-21T02:52:58.154Z",
   "records": [
     {
       "userId": "usr_43bc9c80-eb75-4da0-8673-c56432255215",
@@ -735,6 +735,22 @@
           "animation": "rain",
           "rainbow": true,
           "animated": true
+        }
+      ]
+    },
+    {
+      "userId": "usr_f18f6b2a-2fa5-440f-960b-758675e2fb83",
+      "displayName": "usr_f18f6b2a-2fa5-440f-960b-758675e2fb83",
+      "active": true,
+      "tags": [
+        {
+          "text": "Cheater",
+          "color": "#BDEB44",
+          "priority": 100,
+          "category": "malicious",
+          "animation": "",
+          "rainbow": false,
+          "animated": false
         }
       ]
     }
