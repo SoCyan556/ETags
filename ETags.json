@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated_at": "2026-06-21T03:45:55.560Z",
+  "updated_at": "2026-06-21T03:46:12.927Z",
   "records": [
     {
       "userId": "usr_43bc9c80-eb75-4da0-8673-c56432255215",
@@ -731,12 +731,12 @@
     },
     {
       "userId": "usr_f18f6b2a-2fa5-440f-960b-758675e2fb83",
-      "displayName": "usr_f18f6b2a-2fa5-440f-960b-758675e2fb83",
+      "displayName": "mοmmу",
       "active": true,
       "tags": [
         {
           "text": "Cheater",
-          "color": "#BDEB44",
+          "color": "#C448AD",
           "priority": 100,
           "category": "malicious",
           "animation": "",
