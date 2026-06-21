@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated_at": "2026-06-21T02:29:42.207Z",
+  "updated_at": "2026-06-21T02:34:07.236Z",
   "records": [
     {
       "userId": "usr_43bc9c80-eb75-4da0-8673-c56432255215",
@@ -722,7 +722,7 @@
           "text": ".RAINBOW.Alt Acc",
           "color": "#751400",
           "priority": 100,
-          "category": "custom",
+          "category": "malicious",
           "animation": "rain",
           "rainbow": true,
           "animated": true
