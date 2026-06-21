@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated_at": "2026-06-13T03:36:18.466Z",
+  "updated_at": "2026-06-21T02:29:42.207Z",
   "records": [
     {
       "userId": "usr_43bc9c80-eb75-4da0-8673-c56432255215",
@@ -710,6 +710,22 @@
           "animation": "",
           "rainbow": false,
           "animated": false
+        }
+      ]
+    },
+    {
+      "userId": "usr_c814aabb-b53d-481f-b6e1-1e640ac72559",
+      "displayName": "usr_c814aabb-b53d-481f-b6e1-1e640ac72559",
+      "active": true,
+      "tags": [
+        {
+          "text": ".RAINBOW.Alt Acc",
+          "color": "#751400",
+          "priority": 100,
+          "category": "custom",
+          "animation": "rain",
+          "rainbow": true,
+          "animated": true
         }
       ]
     }
