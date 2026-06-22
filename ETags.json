@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated_at": "2026-06-21T03:46:12.927Z",
+  "updated_at": "2026-06-22T13:47:26.340Z",
   "records": [
     {
       "userId": "usr_43bc9c80-eb75-4da0-8673-c56432255215",
@@ -903,6 +903,40 @@
         {
           "text": "Suspicious",
           "color": "#00FFA1",
+          "priority": 100,
+          "category": "malicious",
+          "animation": "",
+          "rainbow": false,
+          "animated": false
+        }
+      ]
+    },
+    {
+      "userId": "usr_627db55c-30dd-4ea5-bb47-e8b42de38bf9",
+      "displayName": "1v1v",
+      "active": true,
+      "tags": [
+        {
+          "text": "Ripper",
+          "color": "#FF0000",
+          "priority": 100,
+          "category": "malicious",
+          "animation": "",
+          "rainbow": false,
+          "animated": false
+        },
+        {
+          "text": "Alt Acc",
+          "color": "#751400",
+          "priority": 100,
+          "category": "malicious",
+          "animation": "",
+          "rainbow": false,
+          "animated": false
+        },
+        {
+          "text": "Cheater",
+          "color": "#7FE1BE",
           "priority": 100,
           "category": "malicious",
           "animation": "",
