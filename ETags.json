@@ -1168,21 +1168,5 @@
         }
       ]
     },
-    {
-      "userId": "usr_d872c1d5-180c-4438-a0e7-6ce12e201d2e",
-      "displayName": "i dont smoke",
-      "active": false,
-      "tags": [
-        {
-          "text": "Drug Addict",
-          "color": "#2B77FB",
-          "priority": 100,
-          "category": "custom",
-          "animation": "blink",
-          "rainbow": false,
-          "animated": true
-        }
-      ]
-    }
   ]
 }
