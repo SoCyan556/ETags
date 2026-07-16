@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated_at": "2026-07-16T02:19:42.575Z",
+  "updated_at": "2026-07-16T02:22:10.254Z",
   "records": [
     {
       "userId": "usr_43bc9c80-eb75-4da0-8673-c56432255215",
@@ -1165,6 +1165,22 @@
           "animation": "",
           "rainbow": false,
           "animated": false
+        }
+      ]
+    },
+    {
+      "userId": "usr_d872c1d5-180c-4438-a0e7-6ce12e201d2e",
+      "displayName": "i dont smoke",
+      "active": true,
+      "tags": [
+        {
+          "text": "Drug Addict",
+          "color": "#FF00F0",
+          "priority": 100,
+          "category": "custom",
+          "animation": "blink",
+          "rainbow": false,
+          "animated": true
         }
       ]
     }
