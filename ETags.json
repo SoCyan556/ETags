@@ -1181,6 +1181,9 @@
           "animation": "blink",
           "rainbow": false,
           "animated": true
+          "gradient": [
+            "#2B77FB",
+            "#0089FF"
         }
       ]
     }
