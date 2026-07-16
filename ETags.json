@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated_at": "2026-07-16T02:10:45.130Z",
+  "updated_at": "2026-07-16T02:11:23.689Z",
   "records": [
     {
       "userId": "usr_43bc9c80-eb75-4da0-8673-c56432255215",
@@ -1182,8 +1182,8 @@
           "rainbow": true,
           "animated": true,
           "gradient": [
-            "#FF00F0",
-            "#0089FF"
+            "#1B00FF",
+            "#FF0000"
           ]
         }
       ]
