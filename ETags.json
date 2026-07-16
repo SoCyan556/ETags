@@ -1180,7 +1180,7 @@
           "category": "custom",
           "animation": "blink",
           "rainbow": false,
-          "animated": true
+          "animated": true,
           "gradient": [
             "#2B77FB",
             "#0089FF"
