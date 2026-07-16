@@ -1179,7 +1179,7 @@
           "priority": 100,
           "category": "custom",
           "animation": "rain",
-          "rainbow": true,
+          "rainbow": false,
           "animated": true,
           "gradient": [
             "#1B00FF",
