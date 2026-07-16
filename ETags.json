@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated_at": "2026-07-16T02:22:10.254Z",
+  "updated_at": "2026-07-16T02:25:19.766Z",
   "records": [
     {
       "userId": "usr_43bc9c80-eb75-4da0-8673-c56432255215",
@@ -1175,12 +1175,12 @@
       "tags": [
         {
           "text": "Drug Addict",
-          "color": "#FF00F0",
+          "color": "#A855F7",
           "priority": 100,
           "category": "custom",
-          "animation": "blink",
+          "animation": "",
           "rainbow": false,
-          "animated": true
+          "animated": false
         }
       ]
     }
