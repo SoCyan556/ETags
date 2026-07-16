@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated_at": "2026-07-15T22:54:51.698Z",
+  "updated_at": "2026-07-16T01:26:54.464Z",
   "records": [
     {
       "userId": "usr_43bc9c80-eb75-4da0-8673-c56432255215",
@@ -984,6 +984,24 @@
       "displayName": "SilentSeduction",
       "active": true,
       "tags": [
+        {
+          "text": "Alt Acc",
+          "color": "#FFD024",
+          "priority": 100,
+          "category": "malicious",
+          "animation": "",
+          "rainbow": false,
+          "animated": false
+        },
+        {
+          "text": "GG",
+          "color": "#E9FF00",
+          "priority": 100,
+          "category": "special",
+          "animation": "",
+          "rainbow": false,
+          "animated": false
+        },
         {
           "text": "ERP Player",
           "color": "#FF24FF",
