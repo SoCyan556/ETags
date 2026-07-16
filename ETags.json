@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated_at": "2026-07-16T01:30:39.241Z",
+  "updated_at": "2026-07-16T01:31:12.717Z",
   "records": [
     {
       "userId": "usr_43bc9c80-eb75-4da0-8673-c56432255215",
@@ -1089,6 +1089,22 @@
           "color": "#8724FF",
           "priority": 100,
           "category": "info",
+          "animation": "",
+          "rainbow": false,
+          "animated": false
+        }
+      ]
+    },
+    {
+      "userId": "usr_59b15eb4-75ea-456b-9a3e-00648372b0fb",
+      "displayName": "WispyWoo",
+      "active": false,
+      "tags": [
+        {
+          "text": "ERP Player",
+          "color": "#FF24FF",
+          "priority": 100,
+          "category": "lewd",
           "animation": "",
           "rainbow": false,
           "animated": false
