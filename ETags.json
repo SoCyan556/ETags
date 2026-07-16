@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated_at": "2026-07-16T01:26:54.464Z",
+  "updated_at": "2026-07-16T01:28:17.746Z",
   "records": [
     {
       "userId": "usr_43bc9c80-eb75-4da0-8673-c56432255215",
@@ -1007,6 +1007,40 @@
           "color": "#FF24FF",
           "priority": 100,
           "category": "lewd",
+          "animation": "",
+          "rainbow": false,
+          "animated": false
+        }
+      ]
+    },
+    {
+      "userId": "usr_e49f072d-cb07-4542-851a-bdfa3513376f",
+      "displayName": "vоdkadev",
+      "active": true,
+      "tags": [
+        {
+          "text": "Client",
+          "color": "#8724FF",
+          "priority": 100,
+          "category": "info",
+          "animation": "",
+          "rainbow": false,
+          "animated": false
+        },
+        {
+          "text": "Ripper",
+          "color": "#24FFBA",
+          "priority": 100,
+          "category": "malicious",
+          "animation": "",
+          "rainbow": false,
+          "animated": false
+        },
+        {
+          "text": "Malicious",
+          "color": "#FF2424",
+          "priority": 100,
+          "category": "malicious",
           "animation": "",
           "rainbow": false,
           "animated": false
