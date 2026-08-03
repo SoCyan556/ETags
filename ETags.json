@@ -1,32 +1,7 @@
 {
   "version": 2,
-  "updated_at": "2026-08-03T20:24:56.028Z",
+  "updated_at": "2026-08-03T20:25:33.008Z",
   "records": [
-    {
-      "userId": "usr_43bc9c80-eb75-4da0-8673-c56432255215",
-      "displayName": "cуan",
-      "active": true,
-      "tags": [
-        {
-          "text": "Client",
-          "color": "#8724FF",
-          "priority": 100,
-          "category": "info",
-          "animation": "",
-          "rainbow": false,
-          "animated": false
-        },
-        {
-          "text": "VRTool (Water)",
-          "color": "#A855F7",
-          "priority": 100,
-          "category": "custom",
-          "animation": "",
-          "rainbow": false,
-          "animated": false
-        }
-      ]
-    },
     {
       "userId": "usr_be8a100a-c04e-4d99-bd55-d960f8902a9a",
       "displayName": "Bootkitty",
