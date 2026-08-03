@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated_at": "2026-08-03T20:23:05.992Z",
+  "updated_at": "2026-08-03T20:23:25.263Z",
   "records": [
     {
       "userId": "usr_43bc9c80-eb75-4da0-8673-c56432255215",
@@ -1297,6 +1297,22 @@
           "color": "#FF2424",
           "priority": 100,
           "category": "malicious",
+          "animation": "",
+          "rainbow": false,
+          "animated": false
+        }
+      ]
+    },
+    {
+      "userId": "usr_579e4a69-7c71-494f-8583-a2510aff509d",
+      "displayName": "R32",
+      "active": true,
+      "tags": [
+        {
+          "text": "Client",
+          "color": "#8724FF",
+          "priority": 100,
+          "category": "info",
           "animation": "",
           "rainbow": false,
           "animated": false
