@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated_at": "2026-08-03T21:06:07.464Z",
+  "updated_at": "2026-08-03T21:13:23.815Z",
   "records": [
     {
       "userId": "usr_be8a100a-c04e-4d99-bd55-d960f8902a9a",
@@ -1364,6 +1364,26 @@
           "animation": "",
           "rainbow": false,
           "animated": false
+        }
+      ]
+    },
+    {
+      "userId": "usr_1a5319fb-f3a7-4ee9-8ed3-83c96116b509",
+      "displayName": "Comfy Chloe",
+      "active": true,
+      "tags": [
+        {
+          "text": "RBN Admin",
+          "color": "#FF3200",
+          "priority": 100,
+          "category": "custom",
+          "animation": "",
+          "rainbow": false,
+          "animated": false,
+          "gradient": [
+            "#FF3200",
+            "#000000"
+          ]
         }
       ]
     }
