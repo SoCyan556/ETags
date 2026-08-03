@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated_at": "2026-08-03T06:34:57.495Z",
+  "updated_at": "2026-08-03T20:23:05.992Z",
   "records": [
     {
       "userId": "usr_43bc9c80-eb75-4da0-8673-c56432255215",
@@ -8,17 +8,22 @@
       "active": true,
       "tags": [
         {
-          "text": "#freak",
-          "color": "#FF00F0",
+          "text": "Client",
+          "color": "#8724FF",
+          "priority": 100,
+          "category": "info",
+          "animation": "",
+          "rainbow": false,
+          "animated": false
+        },
+        {
+          "text": "VRTool (Water)",
+          "color": "#A855F7",
           "priority": 100,
           "category": "custom",
-          "animation": "blink",
+          "animation": "",
           "rainbow": false,
-          "animated": true,
-          "gradient": [
-            "#FF00F0",
-            "#0089FF"
-          ]
+          "animated": false
         }
       ]
     },
