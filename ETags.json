@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated_at": "2026-08-03T21:13:23.815Z",
+  "updated_at": "2026-08-03T21:45:11.819Z",
   "records": [
     {
       "userId": "usr_be8a100a-c04e-4d99-bd55-d960f8902a9a",
@@ -1383,6 +1383,26 @@
           "gradient": [
             "#FF3200",
             "#000000"
+          ]
+        }
+      ]
+    },
+    {
+      "userId": "usr_43bc9c80-eb75-4da0-8673-c56432255215",
+      "displayName": "cуan",
+      "active": true,
+      "tags": [
+        {
+          "text": ".RAINBOW.RR",
+          "color": "#FB542B",
+          "priority": 100,
+          "category": "custom",
+          "animation": "rain",
+          "rainbow": true,
+          "animated": true,
+          "gradient": [
+            "#FB542B",
+            "#4D0F00"
           ]
         }
       ]
