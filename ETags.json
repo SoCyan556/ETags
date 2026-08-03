@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated_at": "2026-08-03T20:39:07.525Z",
+  "updated_at": "2026-08-03T21:06:07.464Z",
   "records": [
     {
       "userId": "usr_be8a100a-c04e-4d99-bd55-d960f8902a9a",
@@ -1345,6 +1345,22 @@
           "color": "#FF8E24",
           "priority": 100,
           "category": "malicious",
+          "animation": "",
+          "rainbow": false,
+          "animated": false
+        }
+      ]
+    },
+    {
+      "userId": "usr_683728df-4781-480a-ac97-47abbb96e1e4",
+      "displayName": "ashhyyyy",
+      "active": true,
+      "tags": [
+        {
+          "text": "Munchkin Staff",
+          "color": "#A855F7",
+          "priority": 100,
+          "category": "custom",
           "animation": "",
           "rainbow": false,
           "animated": false
