@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated_at": "2026-08-03T06:34:09.456Z",
+  "updated_at": "2026-08-03T06:34:39.059Z",
   "records": [
     {
       "userId": "usr_43bc9c80-eb75-4da0-8673-c56432255215",
@@ -1242,6 +1242,31 @@
           "color": "#FF2424",
           "priority": 100,
           "category": "malicious",
+          "animation": "",
+          "rainbow": false,
+          "animated": false
+        }
+      ]
+    },
+    {
+      "userId": "usr_c137cb4e-9132-4626-ae39-a8485b38ceaf",
+      "displayName": "want u",
+      "active": true,
+      "tags": [
+        {
+          "text": "Ripper",
+          "color": "#24FFBA",
+          "priority": 100,
+          "category": "malicious",
+          "animation": "",
+          "rainbow": false,
+          "animated": false
+        },
+        {
+          "text": "Client",
+          "color": "#8724FF",
+          "priority": 100,
+          "category": "info",
           "animation": "",
           "rainbow": false,
           "animated": false
