@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated_at": "2026-08-04T22:36:17.267Z",
+  "updated_at": "2026-08-05T19:51:36.723Z",
   "records": [
     {
       "userId": "usr_be8a100a-c04e-4d99-bd55-d960f8902a9a",
@@ -1433,6 +1433,22 @@
           "color": "#FF8E24",
           "priority": 100,
           "category": "malicious",
+          "animation": "",
+          "rainbow": false,
+          "animated": false
+        }
+      ]
+    },
+    {
+      "userId": "usr_16152e54-628d-4dbf-9543-f218d29a471b",
+      "displayName": "smspool",
+      "active": true,
+      "tags": [
+        {
+          "text": "Client",
+          "color": "#8724FF",
+          "priority": 100,
+          "category": "info",
           "animation": "",
           "rainbow": false,
           "animated": false
