@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated_at": "2026-08-05T20:41:39.988Z",
+  "updated_at": "2026-08-07T01:19:29.614Z",
   "records": [
     {
       "userId": "usr_be8a100a-c04e-4d99-bd55-d960f8902a9a",
@@ -1497,6 +1497,31 @@
           "color": "#8724FF",
           "priority": 100,
           "category": "info",
+          "animation": "",
+          "rainbow": false,
+          "animated": false
+        }
+      ]
+    },
+    {
+      "userId": "usr_e58699e7-7e96-46eb-93eb-25a10bb3733b",
+      "displayName": "deрр",
+      "active": true,
+      "tags": [
+        {
+          "text": "Client",
+          "color": "#8724FF",
+          "priority": 100,
+          "category": "info",
+          "animation": "",
+          "rainbow": false,
+          "animated": false
+        },
+        {
+          "text": "Sephiria",
+          "color": "#A855F7",
+          "priority": 100,
+          "category": "custom",
           "animation": "",
           "rainbow": false,
           "animated": false
