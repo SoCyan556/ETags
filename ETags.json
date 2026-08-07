@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated_at": "2026-08-07T01:19:29.614Z",
+  "updated_at": "2026-08-07T01:27:34.599Z",
   "records": [
     {
       "userId": "usr_be8a100a-c04e-4d99-bd55-d960f8902a9a",
@@ -1522,6 +1522,22 @@
           "color": "#A855F7",
           "priority": 100,
           "category": "custom",
+          "animation": "",
+          "rainbow": false,
+          "animated": false
+        }
+      ]
+    },
+    {
+      "userId": "usr_aac72602-4972-4df0-8dd5-1a381013b286",
+      "displayName": "stаrve",
+      "active": true,
+      "tags": [
+        {
+          "text": "Suspicious",
+          "color": "#FF8E24",
+          "priority": 100,
+          "category": "malicious",
           "animation": "",
           "rainbow": false,
           "animated": false
