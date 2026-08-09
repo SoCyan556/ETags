@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated_at": "2026-08-09T00:15:43.827Z",
+  "updated_at": "2026-08-09T00:15:57.123Z",
   "records": [
     {
       "userId": "usr_be8a100a-c04e-4d99-bd55-d960f8902a9a",
@@ -1544,6 +1544,22 @@
           "rainbow": false,
           "animated": false
         },
+        {
+          "text": "Suspicious",
+          "color": "#FF8E24",
+          "priority": 100,
+          "category": "malicious",
+          "animation": "",
+          "rainbow": false,
+          "animated": false
+        }
+      ]
+    },
+    {
+      "userId": "usr_a556d41e-0128-4255-8315-f7d861736778",
+      "displayName": "ɡhoul",
+      "active": true,
+      "tags": [
         {
           "text": "Suspicious",
           "color": "#FF8E24",
