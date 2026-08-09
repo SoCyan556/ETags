@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated_at": "2026-08-09T00:19:22.929Z",
+  "updated_at": "2026-08-09T01:14:57.466Z",
   "records": [
     {
       "userId": "usr_be8a100a-c04e-4d99-bd55-d960f8902a9a",
@@ -1661,6 +1661,22 @@
           "color": "#FF8E24",
           "priority": 100,
           "category": "malicious",
+          "animation": "",
+          "rainbow": false,
+          "animated": false
+        }
+      ]
+    },
+    {
+      "userId": "usr_bb5f301b-7378-4266-9eec-ca1e83c6d717",
+      "displayName": "＞___＜",
+      "active": true,
+      "tags": [
+        {
+          "text": "Client",
+          "color": "#8724FF",
+          "priority": 100,
+          "category": "info",
           "animation": "",
           "rainbow": false,
           "animated": false
