@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated_at": "2026-08-09T00:18:55.061Z",
+  "updated_at": "2026-08-09T00:19:22.929Z",
   "records": [
     {
       "userId": "usr_be8a100a-c04e-4d99-bd55-d960f8902a9a",
@@ -1645,6 +1645,22 @@
           "color": "#FF24FF",
           "priority": 100,
           "category": "lewd",
+          "animation": "",
+          "rainbow": false,
+          "animated": false
+        }
+      ]
+    },
+    {
+      "userId": "usr_f62f6f72-963c-45db-8ae7-e786c2fe91d2",
+      "displayName": "Andý",
+      "active": true,
+      "tags": [
+        {
+          "text": "Suspicious",
+          "color": "#FF8E24",
+          "priority": 100,
+          "category": "malicious",
           "animation": "",
           "rainbow": false,
           "animated": false
