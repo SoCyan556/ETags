@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated_at": "2026-08-12T21:57:45.369Z",
+  "updated_at": "2026-08-13T04:39:50.156Z",
   "records": [
     {
       "userId": "usr_be8a100a-c04e-4d99-bd55-d960f8902a9a",
@@ -1722,6 +1722,22 @@
       "tags": [
         {
           "text": "Client (Notorious)",
+          "color": "#8724FF",
+          "priority": 100,
+          "category": "info",
+          "animation": "",
+          "rainbow": false,
+          "animated": false
+        }
+      ]
+    },
+    {
+      "userId": "usr_5ec67e7e-d77d-4c3d-8654-9a1218088baa",
+      "displayName": "〖 IƵinƶaX 〗",
+      "active": true,
+      "tags": [
+        {
+          "text": "Client",
           "color": "#8724FF",
           "priority": 100,
           "category": "info",
