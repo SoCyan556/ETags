@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated_at": "2026-08-13T04:40:02.494Z",
+  "updated_at": "2026-08-15T05:39:49.771Z",
   "records": [
     {
       "userId": "usr_be8a100a-c04e-4d99-bd55-d960f8902a9a",
@@ -1755,6 +1755,22 @@
         {
           "text": "Suspicious",
           "color": "#FF8E24",
+          "priority": 100,
+          "category": "malicious",
+          "animation": "",
+          "rainbow": false,
+          "animated": false
+        }
+      ]
+    },
+    {
+      "userId": "usr_50fa9ed3-2644-4840-ab7f-7bf26faf09b6",
+      "displayName": "RobinTheXeno",
+      "active": true,
+      "tags": [
+        {
+          "text": "Malicious",
+          "color": "#FF2424",
           "priority": 100,
           "category": "malicious",
           "animation": "",
