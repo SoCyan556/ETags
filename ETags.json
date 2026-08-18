@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated_at": "2026-08-16T22:30:08.046Z",
+  "updated_at": "2026-08-18T02:15:07.983Z",
   "records": [
     {
       "userId": "usr_be8a100a-c04e-4d99-bd55-d960f8902a9a",
@@ -1803,6 +1803,22 @@
         {
           "text": "Suspicious",
           "color": "#FF8E24",
+          "priority": 100,
+          "category": "malicious",
+          "animation": "",
+          "rainbow": false,
+          "animated": false
+        }
+      ]
+    },
+    {
+      "userId": "usr_99ff2a78-1734-41c4-8f63-d9c1c0cbaa7a",
+      "displayName": "Sir_Shady65",
+      "active": true,
+      "tags": [
+        {
+          "text": "Ripper",
+          "color": "#24FFBA",
           "priority": 100,
           "category": "malicious",
           "animation": "",
