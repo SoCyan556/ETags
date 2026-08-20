@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated_at": "2026-08-18T02:15:07.983Z",
+  "updated_at": "2026-08-20T14:09:08.135Z",
   "records": [
     {
       "userId": "usr_be8a100a-c04e-4d99-bd55-d960f8902a9a",
@@ -1821,6 +1821,22 @@
           "color": "#24FFBA",
           "priority": 100,
           "category": "malicious",
+          "animation": "",
+          "rainbow": false,
+          "animated": false
+        }
+      ]
+    },
+    {
+      "userId": "usr_a00b6f75-d8b2-4796-b84a-6cdfc4cbfcee",
+      "displayName": "ღｂｌｕｅღ",
+      "active": true,
+      "tags": [
+        {
+          "text": "Best Color",
+          "color": "#2B38FB",
+          "priority": 100,
+          "category": "custom",
           "animation": "",
           "rainbow": false,
           "animated": false
