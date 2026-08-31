@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated_at": "2026-08-20T19:22:02.808Z",
+  "updated_at": "2026-08-31T04:39:12.042Z",
   "records": [
     {
       "userId": "usr_be8a100a-c04e-4d99-bd55-d960f8902a9a",
@@ -1851,6 +1851,22 @@
         {
           "text": "Weirdo",
           "color": "#A855F7",
+          "priority": 100,
+          "category": "custom",
+          "animation": "",
+          "rainbow": false,
+          "animated": false
+        }
+      ]
+    },
+    {
+      "userId": "usr_ee2eb363-1284-47ec-ba37-3999f3521f91",
+      "displayName": "Lıghter",
+      "active": true,
+      "tags": [
+        {
+          "text": "Water",
+          "color": "#2BBAFB",
           "priority": 100,
           "category": "custom",
           "animation": "",
