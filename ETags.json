@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated_at": "2026-09-02T06:26:21.852Z",
+  "updated_at": "2026-09-04T00:20:44.961Z",
   "records": [
     {
       "userId": "usr_be8a100a-c04e-4d99-bd55-d960f8902a9a",
@@ -1873,6 +1873,22 @@
         {
           "text": "Malicious",
           "color": "#FF2424",
+          "priority": 100,
+          "category": "malicious",
+          "animation": "",
+          "rainbow": false,
+          "animated": false
+        }
+      ]
+    },
+    {
+      "userId": "usr_8fefcd72-7fe2-491a-8ec8-bc0bf9c6543d",
+      "displayName": "vamрyr",
+      "active": true,
+      "tags": [
+        {
+          "text": "Suspicious",
+          "color": "#FF8E24",
           "priority": 100,
           "category": "malicious",
           "animation": "",
