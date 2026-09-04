@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated_at": "2026-09-04T00:21:15.017Z",
+  "updated_at": "2026-09-04T00:21:42.106Z",
   "records": [
     {
       "userId": "usr_be8a100a-c04e-4d99-bd55-d960f8902a9a",
@@ -1920,6 +1920,22 @@
       "tags": [
         {
           "text": "Suspicious",
+          "color": "#FF8E24",
+          "priority": 100,
+          "category": "malicious",
+          "animation": "",
+          "rainbow": false,
+          "animated": false
+        }
+      ]
+    },
+    {
+      "userId": "usr_e7d696da-17e4-44b3-92fe-0ce1101fb9f3",
+      "displayName": "buhguh",
+      "active": true,
+      "tags": [
+        {
+          "text": "High Suspicion",
           "color": "#FF8E24",
           "priority": 100,
           "category": "malicious",
