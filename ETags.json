@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated_at": "2026-09-04T19:19:18.339Z",
+  "updated_at": "2026-09-05T02:54:38.504Z",
   "records": [
     {
       "userId": "usr_be8a100a-c04e-4d99-bd55-d960f8902a9a",
@@ -249,24 +249,22 @@
       "active": true,
       "tags": [
         {
-          "text": "Doordash Driver",
-          "color": "#FF0000",
+          "text": "Ripper",
+          "color": "#24FFBA",
           "priority": 100,
-          "category": "custom",
-          "animated": false,
+          "category": "malicious",
           "animation": "",
-          "gradient": [
-            "#FF0000",
-            "#D76300"
-          ]
+          "rainbow": false,
+          "animated": false
         },
         {
-          "text": "Cool Fella",
-          "color": "#D7007E",
+          "text": "Client",
+          "color": "#8724FF",
           "priority": 100,
-          "category": "custom",
-          "animated": false,
-          "animation": ""
+          "category": "info",
+          "animation": "",
+          "rainbow": false,
+          "animated": false
         }
       ]
     },
