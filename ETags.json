@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated_at": "2026-09-05T20:02:50.985Z",
+  "updated_at": "2026-09-06T06:14:55.246Z",
   "records": [
     {
       "userId": "usr_be8a100a-c04e-4d99-bd55-d960f8902a9a",
@@ -655,8 +655,8 @@
       "active": true,
       "tags": [
         {
-          "text": ".RAINBOW.🍸",
-          "color": "#A855F7",
+          "text": ".RAINBOW.DANGER",
+          "color": "#006FFF",
           "priority": 100,
           "category": "custom",
           "animation": "blink",
