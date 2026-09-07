@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated_at": "2026-09-06T06:14:55.246Z",
+  "updated_at": "2026-09-07T04:52:57.216Z",
   "records": [
     {
       "userId": "usr_be8a100a-c04e-4d99-bd55-d960f8902a9a",
@@ -2019,6 +2019,22 @@
           "color": "#FF24FF",
           "priority": 100,
           "category": "lewd",
+          "animation": "",
+          "rainbow": false,
+          "animated": false
+        }
+      ]
+    },
+    {
+      "userId": "usr_b4539afa-da47-49f5-a8f1-d7dbce298c6f",
+      "displayName": "̴S̴̴H̴̴Y̴",
+      "active": true,
+      "tags": [
+        {
+          "text": "Client",
+          "color": "#8724FF",
+          "priority": 100,
+          "category": "info",
           "animation": "",
           "rainbow": false,
           "animated": false
