@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated_at": "2026-09-08T06:20:21.220Z",
+  "updated_at": "2026-09-13T04:16:45.823Z",
   "records": [
     {
       "userId": "usr_be8a100a-c04e-4d99-bd55-d960f8902a9a",
@@ -2051,6 +2051,22 @@
           "color": "#FF24FF",
           "priority": 100,
           "category": "lewd",
+          "animation": "",
+          "rainbow": false,
+          "animated": false
+        }
+      ]
+    },
+    {
+      "userId": "usr_cfdd56c2-10b7-45c5-a7f2-b9668d84a31d",
+      "displayName": "vexі",
+      "active": true,
+      "tags": [
+        {
+          "text": "E-Tard",
+          "color": "#A855F7",
+          "priority": 100,
+          "category": "custom",
           "animation": "",
           "rainbow": false,
           "animated": false
