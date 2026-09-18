@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated_at": "2026-09-14T23:59:12.106Z",
+  "updated_at": "2026-09-18T13:57:46.103Z",
   "records": [
     {
       "userId": "usr_be8a100a-c04e-4d99-bd55-d960f8902a9a",
@@ -851,17 +851,7 @@
       "userId": "usr_2e7fb9f5-98a4-458b-82f0-62435fb439aa",
       "displayName": "Momoツ",
       "active": true,
-      "tags": [
-        {
-          "text": "Suspicious",
-          "color": "#00FFA1",
-          "priority": 100,
-          "category": "malicious",
-          "animation": "",
-          "rainbow": false,
-          "animated": false
-        }
-      ]
+      "tags": []
     },
     {
       "userId": "usr_319497f2-360d-478b-a3f8-cc1a6059eae0",
