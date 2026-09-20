@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated_at": "2026-09-19T09:30:03.927Z",
+  "updated_at": "2026-09-20T16:27:40.325Z",
   "records": [
     {
       "userId": "usr_be8a100a-c04e-4d99-bd55-d960f8902a9a",
@@ -2135,6 +2135,22 @@
         {
           "text": "Malicious",
           "color": "#FF2424",
+          "priority": 100,
+          "category": "malicious",
+          "animation": "",
+          "rainbow": false,
+          "animated": false
+        }
+      ]
+    },
+    {
+      "userId": "usr_0a334735-4e74-40bf-8b90-eca223a5cc00",
+      "displayName": "ParaDoxiii~",
+      "active": true,
+      "tags": [
+        {
+          "text": "Ripper",
+          "color": "#24FFBA",
           "priority": 100,
           "category": "malicious",
           "animation": "",
