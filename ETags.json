@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated_at": "2026-10-19T00:05:06.275Z",
+  "updated_at": "2026-10-19T00:05:41.582Z",
   "records": [
     {
       "userId": "usr_be8a100a-c04e-4d99-bd55-d960f8902a9a",
@@ -2180,6 +2180,31 @@
         {
           "text": "Ripper",
           "color": "#24FFBA",
+          "priority": 100,
+          "category": "malicious",
+          "animation": "",
+          "rainbow": false,
+          "animated": false
+        }
+      ]
+    },
+    {
+      "userId": "usr_2afa6d3d-b2b8-4388-8f79-ec9fbf2da2ea",
+      "displayName": "naｍe",
+      "active": true,
+      "tags": [
+        {
+          "text": "Client",
+          "color": "#8724FF",
+          "priority": 100,
+          "category": "info",
+          "animation": "",
+          "rainbow": false,
+          "animated": false
+        },
+        {
+          "text": "Alt Acc",
+          "color": "#FFD024",
           "priority": 100,
           "category": "malicious",
           "animation": "",
