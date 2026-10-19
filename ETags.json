@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated_at": "2026-10-19T00:04:47.809Z",
+  "updated_at": "2026-10-19T00:05:06.275Z",
   "records": [
     {
       "userId": "usr_be8a100a-c04e-4d99-bd55-d960f8902a9a",
@@ -22,17 +22,30 @@
       "active": true,
       "tags": [
         {
-          "text": "⚠️ Client User ⚠️",
-          "color": "#FF0000",
+          "text": "Client",
+          "color": "#8724FF",
           "priority": 100,
-          "category": "custom",
+          "category": "info",
+          "animation": "",
+          "rainbow": false,
           "animated": false
         },
         {
-          "text": "🏷️ Avatar Ripper 🏷️",
-          "color": "#FF6E00",
+          "text": "Ripper",
+          "color": "#24FFBA",
           "priority": 100,
-          "category": "custom",
+          "category": "malicious",
+          "animation": "",
+          "rainbow": false,
+          "animated": false
+        },
+        {
+          "text": "Alt Acc",
+          "color": "#FFD024",
+          "priority": 100,
+          "category": "malicious",
+          "animation": "",
+          "rainbow": false,
           "animated": false
         }
       ]
