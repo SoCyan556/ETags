@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated_at": "2026-10-19T00:05:41.582Z",
+  "updated_at": "2026-10-19T02:17:22.226Z",
   "records": [
     {
       "userId": "usr_be8a100a-c04e-4d99-bd55-d960f8902a9a",
@@ -2205,6 +2205,22 @@
         {
           "text": "Alt Acc",
           "color": "#FFD024",
+          "priority": 100,
+          "category": "malicious",
+          "animation": "",
+          "rainbow": false,
+          "animated": false
+        }
+      ]
+    },
+    {
+      "userId": "usr_716e92c9-4749-435e-bb01-861b22a2515a",
+      "displayName": "Ṃother",
+      "active": true,
+      "tags": [
+        {
+          "text": "Malicious",
+          "color": "#FF2424",
           "priority": 100,
           "category": "malicious",
           "animation": "",
